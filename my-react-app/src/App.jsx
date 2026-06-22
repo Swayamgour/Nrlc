@@ -478,11 +478,11 @@ function App() {
 
       {/* ===== FOOTER ===== */}
       <footer className="footer-strip">
-        {/* <div className="footer-grid"> */}
+        <div className="footer-grid">
           {/* Column 1: Institute Info */}
           <div className="footer-col">
             <div className="footer-logo">NRLC <span>Training</span></div>
-            <div className="footer-sub">Ministry of Culture, Government of India</div>
+            {/* <div className="footer-sub">Ministry of Culture, Government of India</div> */}
             <div className="footer-address">
               <p><FaMapMarkerAlt className="footer-icon" /> Sector-E/3, Aliganj Scheme, Lucknow 226024</p>
               <p><FaPhone className="footer-icon" /> 0522-273 5313 (Jankipuram Campus)</p>
@@ -528,10 +528,10 @@ function App() {
               <li><a href="#">Privacy Policy</a></li>
             </ul>
           </div>
-        {/* </div> */}
+        </div>
 
         {/* Social Media & Bottom Bar */}
-        
+
        
       </footer>
     </div>
