@@ -531,6 +531,7 @@ function App() {
         {/* </div> */}
 
         {/* Social Media & Bottom Bar */}
+        
        
       </footer>
     </div>
